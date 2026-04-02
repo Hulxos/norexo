@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NoreXo Kasir
 
 Project ini di-reset menjadi sistem kasir berbasis Laravel dengan 4 entitas utama:
@@ -194,3 +195,7 @@ UI mengikuti gaya NoreXo:
 - Kartu putih, border halus, aksen biru.
 - Layout 2 kolom (produk dan ringkasan keranjang).
 - Responsif untuk desktop dan mobile.
+=======
+# norexo
+website usk
+>>>>>>> 34c80d39abc462b236a3f54081ef4814421cf129
